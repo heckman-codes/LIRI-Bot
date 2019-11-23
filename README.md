@@ -21,3 +21,12 @@ followed by any of the following:
 followed by whatever you are searching for (Movie title, song track, or a music artist).
 
 ————————————————————————————————————————————————
+
+Examples:
+
+![Movie This](demo-imgs/movie-this.png)
+![Concert This](demo-imgs/concert-this.png)
+![Spotify This](demo-imgs/spotify-this.png)
+![Do What it Says](demo-imgs/do-what-it-says.png)
+
+
